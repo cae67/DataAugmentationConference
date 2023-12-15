@@ -4,6 +4,10 @@
 
 https://figshare.com/articles/dataset/EEG_Data_New/4244171
 
+## Environment -
+
+Contains Files for Recreating Anaconda Environment
+
 ## Preprocessing - 
 
 Contains Code for Preprocessing Data
